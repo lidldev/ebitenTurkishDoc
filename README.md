@@ -8,4 +8,4 @@ Umarım yardımı dokunmuştur...
 Eğer anlamdığınız birşey olursa İngilizce bir şekilde ebitengine discord sunucusunda özgürce sorabilirsiniz.
 https://discord.gg/3tVdM5H8cC
 
-https://ahmetaffan.gitbook.io/ebitengine-basitlestirilmis-tuerkce-dokuemantasyon/
+https://lidldev.gitbook.io/ebitengine-basitlestirilmis-tuerkce-dokuemantasyon/
