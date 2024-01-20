@@ -103,6 +103,7 @@ type Game struct {
 
 func (g *Game) Draw(screen *ebiten.Image) {
 	op := &ebiten.DrawImageOptions{}
+
 	op.GeoM.Scale(0.5, 0.5)
 	screen.DrawImage(BackgroundImage, op)
 
